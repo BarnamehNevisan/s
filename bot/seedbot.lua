@@ -210,6 +210,7 @@ function create_config( )
     enabled_plugins = {
     "onservice",
     "inrealm",
+    "shekayat",
     "ingroup",
     "inpm",
     "banhammer",
