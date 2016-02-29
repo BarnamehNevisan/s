@@ -228,6 +228,7 @@ function create_config( )
     "admin",
     "a",
     "spm",
+    "plugins",
     "sp",
     "x",
     "y"
