@@ -6,7 +6,7 @@ if msg.text == "تو" then
 	return "شکایت داری"
 end
 if msg.text == "ما" then
-	return "شکایت داریم
+	return "شکایت داریم"
 end
 if msg.text == "برو" then
 	return "حالا ⇩⇩"
