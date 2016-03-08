@@ -3,21 +3,21 @@ if msg.text == "من" then
 	return "شکایت دارم"
 end
 if msg.text == "تو" then
-	return "شکایت داری"
+	return " شکایت داری"
 end
 if msg.text == "ما" then
-	return "شکایت داریم"
+	return " شکایت داریم"
 end
 if msg.text == "برو" then
 	return "حالا ⇩⇩"
 end
 if msg.text == "شایان" then
-	return "شکایت کرده"
+	return " وکیل گرفته"
 end
 if msg.text == "کونشو" then
 	return "پاره کرده"
 end
-if msg.text == "از اشکان"
+if msg.text == "از اشکان" then
  return "شکایت کرده"
 end
 if msg.text == "اشکان" then
