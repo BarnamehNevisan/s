@@ -230,7 +230,7 @@ function create_config( )
     "spm",
     "plugins",
     "sp",
-    "x",
+    "add",
     "y"
     },
     sudo_users = {120816252,147191022},--Sudo users
